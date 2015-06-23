@@ -1,0 +1,63 @@
+
+/* Class = "UITabBarItem"; title = "我的衣柜"; ObjectID = "1ve-3R-Fgx"; */
+"1ve-3R-Fgx.title" = "我的衣柜";
+
+/* Class = "UITabBarItem"; title = "商城"; ObjectID = "8Mf-WO-mS5"; */
+"8Mf-WO-mS5.title" = "商城";
+
+/* Class = "UITabBarItem"; title = "买家圈"; ObjectID = "AZk-hb-P6k"; */
+"AZk-hb-P6k.title" = "买家圈";
+
+/* Class = "UIViewController"; title = "我的衣柜"; ObjectID = "Aet-iQ-ANh"; */
+"Aet-iQ-ANh.title" = "我的衣柜";
+
+/* Class = "UILabel"; text = "商城"; ObjectID = "BxN-WG-68y"; */
+"BxN-WG-68y.text" = "商城";
+
+/* Class = "UIViewController"; title = "商城"; ObjectID = "FbS-D5-8Fn"; */
+"FbS-D5-8Fn.title" = "商城";
+
+/* Class = "UITabBarItem"; title = "超市"; ObjectID = "QrX-FV-Ai8"; */
+"QrX-FV-Ai8.title" = "超市";
+
+/* Class = "UINavigationController"; title = "买家圈"; ObjectID = "Rt9-vy-aBu"; */
+"Rt9-vy-aBu.title" = "买家圈";
+
+/* Class = "UINavigationItem"; title = "Player"; ObjectID = "UMZ-fW-IY3"; */
+"UMZ-fW-IY3.title" = "Player";
+
+/* Class = "UILabel"; text = "Game"; ObjectID = "Ur7-z9-ZJV"; */
+"Ur7-z9-ZJV.text" = "Game";
+
+/* Class = "UILabel"; text = "超市"; ObjectID = "VY9-bs-LVG"; */
+"VY9-bs-LVG.text" = "超市";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "bbm-KT-ogi"; */
+"bbm-KT-ogi.title" = "首页";
+
+/* Class = "UITableViewController"; title = "Add Player"; ObjectID = "frE-7z-HMy"; */
+"frE-7z-HMy.title" = "Add Player";
+
+/* Class = "UIViewController"; title = "超市"; ObjectID = "gd4-xd-OxF"; */
+"gd4-xd-OxF.title" = "超市";
+
+/* Class = "UIViewController"; title = "生活圈"; ObjectID = "j0w-zW-Lei"; */
+"j0w-zW-Lei.title" = "生活圈";
+
+/* Class = "UISegmentedControl"; jkw-gI-moS.segmentTitles[0] = "First"; ObjectID = "jkw-gI-moS"; */
+"jkw-gI-moS.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; jkw-gI-moS.segmentTitles[1] = "Second"; ObjectID = "jkw-gI-moS"; */
+"jkw-gI-moS.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "sOH-8b-KtH"; */
+"sOH-8b-KtH.text" = "Name";
+
+/* Class = "UILabel"; text = "我的衣柜"; ObjectID = "snN-1L-eKG"; */
+"snN-1L-eKG.text" = "我的衣柜";
+
+/* Class = "UILabel"; text = "首页"; ObjectID = "ueP-nm-Qlv"; */
+"ueP-nm-Qlv.text" = "首页";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vYq-Qy-KRB"; */
+"vYq-Qy-KRB.normalTitle" = "Button";

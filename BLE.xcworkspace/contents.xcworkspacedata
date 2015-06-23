@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BLE-View/PageViewDemo/PageViewDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BLE-View/TabbedExample/TabbedExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BLE-View/SingleViewExample/SingleViewExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BLE-View/MasterDetailExample/MasterDetailExample.xcodeproj">
+   </FileRef>
+</Workspace>
